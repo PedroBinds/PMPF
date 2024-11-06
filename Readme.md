@@ -12,4 +12,4 @@ The player must collect all coins while avoiding traps and enimies.
 * Godot Engine
 
 ## Screenshots
-![Main Page](MainPageScreenshot.png)
+![GameStart](GameStart.png)
